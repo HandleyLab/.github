@@ -1,3 +1,4 @@
 # .github
-lab-public-readme
-TEST
+
+Public lab-public-readme file for the Handley Lab.
+
